@@ -22,13 +22,13 @@ Recent Publications
 
 Journal
 ------
-E. Yang, C. Deng, __C. Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF16=6.108)  
-C. Deng, X. Liu, __C. Li__, D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF16=4.582)  
+E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF16=6.108)  
+C. Deng, X. Liu, __Chao Li__, D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF16=4.582)  
 
 Conference
 ------
-N. Li, __C. Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embedding Hashing, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2018.  
-__C. Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [arXiv](https://arxiv.org/abs/1804.01223)
+N. Li, __Chao Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embedding Hashing, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2018.  
+__Chao Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [arXiv](https://arxiv.org/abs/1804.01223)
 
 Friends
 ======
