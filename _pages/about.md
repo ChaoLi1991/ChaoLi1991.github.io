@@ -14,7 +14,11 @@ I am currently a third year PhD Candidate co-supervised by Prof. [Wei Liu](http:
 News
 ======
 * Nov. 1, 2018, two papers were accepted to AAAI2019 (~16.2% acceptance rate).
+
+
 * Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate).
+
+
 * Feb. 20, 2018, one paper was accepted by CVPR2018 (~29% acceptance rate). 
 
 
@@ -24,6 +28,8 @@ Recent Publications
 Journal
 ------
 E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF16=6.108)  
+
+
 C. Deng, X. Liu, __Chao Li__, D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF16=4.582)  
 
 Conference
