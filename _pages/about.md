@@ -13,7 +13,7 @@ I am currently a third year PhD Candidate co-supervised by Prof. [Wei Liu](http:
 
 News
 ======
-* Nov. 1, 2018, two papers were accepted to AAAI2019 (~16.2% acceptance rate).
+* Nov. 1, 2018, two papers were accepted by AAAI2019 (~16.2% acceptance rate).
 
 
 * Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate).
