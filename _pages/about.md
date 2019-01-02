@@ -27,10 +27,13 @@ Recent Publications
 
 Journal
 ------
-E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF16=6.108)  
+C. Deng, Y. Xue, X. Liu, __Chao Li__, Dacheng Tao, Active Transfer Learning Network: A Unified Deep Joint Spectral–Spatial Feature Learning Model for Hyperspectral Image Classification, IEEE Trans. Geosci. Remote Sens., 2018.(IF17=4.662)  
 
 
-C. Deng, X. Liu, __Chao Li__, D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF16=4.582)  
+E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF17=7.982)  
+
+
+C. Deng, X. Liu, __Chao Li__, D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF17=3.962)  
 
 Conference
 ------
