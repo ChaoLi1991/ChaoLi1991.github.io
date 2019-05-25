@@ -13,13 +13,10 @@ Chao Li is a PhD Candidate co-supervised by Prof. [Wei Liu](http://www.ee.columb
 
 News
 ======
-* Nov. 1, 2018, two papers were accepted by AAAI2019 (~16.2% acceptance rate).
-
-
-* Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate).
-
-
-* Feb. 20, 2018, one paper was accepted by CVPR2018 (~29% acceptance rate). 
+* May 10, 2019, one paper was accepted to IJCAI2019 (~17.9% acceptance rate).  
+* Nov. 1, 2018, two papers were accepted by AAAI2019 (~16.2% acceptance rate).  
+* Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate).  
+* Feb. 20, 2018, one paper was accepted by CVPR2018 (~29% acceptance rate).   
 
 
 Recent Publications
@@ -27,26 +24,29 @@ Recent Publications
 
 Journal
 ------
-C. Deng, Y. Xue, X. Liu, __Chao Li__, and D. Tao, Active Transfer Learning Network: A Unified Deep Joint Spectral–Spatial Feature Learning Model for Hyperspectral Image Classification, IEEE Trans. Geosci. Remote Sens., 2018.(IF17=4.662)  
+1. C. Deng, Y. Xue, X. Liu, __Chao Li__, and D. Tao, Active Transfer Learning Network: A Unified Deep Joint Spectral–Spatial Feature Learning Model for Hyperspectral Image Classification, IEEE Trans. Geosci. Remote Sens., 2018.(IF17=4.662)  
 
 
-E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF17=7.982)  
+2. E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF17=7.982)  
 
 
-C. Deng, X. Liu, __Chao Li__, and D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF17=3.962)  
+3. C. Deng, X. Liu, __Chao Li__, and D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF17=3.962)  
 
 Conference
 ------
-__Chao Li__, C. Deng, L. Wang, D. Xie, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019.  
+1. R. Xu, __Chao Li__, J. Yan, C. Deng, X. Liu, Graph Convolutional Network Hashing for Cross-Modal Retrieval, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2019.
 
 
-D. Xie, C. Deng, H. Wang, __Chao Li__, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019.  
+2. __Chao Li__, C. Deng, L. Wang, D. Xie, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019.  
 
 
-N. Li, __Chao Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embedding Hashing, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2018.  
+3. D. Xie, C. Deng, H. Wang, __Chao Li__, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019.  
 
 
-__Chao Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [arXiv](https://arxiv.org/abs/1804.01223)
+4. N. Li, __Chao Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embedding Hashing, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2018.  
+
+
+5. __Chao Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [arXiv](https://arxiv.org/abs/1804.01223)
 
 Friends
 ======
