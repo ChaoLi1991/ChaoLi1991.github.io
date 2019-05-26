@@ -37,7 +37,7 @@ Conference
 __1__. R. Xu, __Chao Li__, J. Yan, C. Deng, X. Liu, Graph Convolutional Network Hashing for Cross-Modal Retrieval, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2019.
 
 
-__2__. __Chao Li__, C. Deng, L. Wang, D. Xie, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. [[paper]](https://arxiv.org/pdf/1903.02149.pdf)
+__2__. __Chao Li__, C. Deng, L. Wang, D. Xie, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. [[paper](https://arxiv.org/pdf/1903.02149.pdf)]
 
 
 __3__. D. Xie, C. Deng, H. Wang, __Chao Li__, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. [[paper](https://arxiv.org/pdf/1903.02155.pdf)]  
