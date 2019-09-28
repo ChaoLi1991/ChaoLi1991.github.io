@@ -13,6 +13,7 @@ Chao Li is a PhD Candidate co-supervised by Prof. Wei Liu and Prof. [Cheng Deng]
 
 News
 ======
+* Sep. 04, 2019, one paper was accepted to NeurIPS2019 (~21% acceptance rate).  
 * May 10, 2019, one paper was accepted to IJCAI2019 (~17.9% acceptance rate).  
 * Nov. 1, 2018, two papers were accepted by AAAI2019 (~16.2% acceptance rate).  
 * Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate).  
