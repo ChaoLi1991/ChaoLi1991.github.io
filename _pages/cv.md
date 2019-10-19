@@ -60,8 +60,8 @@ Professional Services:
    Neurocomputing  
    IEEE Transactions on Circuits and Systems for Video Technology  
 
-* Conference reviewer:
+* Conference reviewer:  
    IEEE IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019)  
    The International Conference on Computer Vision (ICCV 2019)  
-   The AAAI Conference on Artificial Intelligence (2019)
+   The AAAI Conference on Artificial Intelligence (2019)  
    The International Joint Conference on Artificial Intelligence (IJCAI 2019)  
