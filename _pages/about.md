@@ -35,7 +35,7 @@ __3__. C. Deng, X. Liu, __Chao Li__, and D. Tao, Active Multi-kernel Domain Adap
 
 Conference
 ------
-__1__. __Chao Li__, C. Deng, S. Gao, D. Xie, and W. Liu, Cross-Modal Learning with Adversarial Samples, In Annual Conference on Neural Information Processing Systems (NeurIPS), 2019. [code]()  
+__1__. __Chao Li__, C. Deng, S. Gao, D. Xie, and W. Liu, Cross-Modal Learning with Adversarial Samples, In Annual Conference on Neural Information Processing Systems (NeurIPS), 2019. [[paper]()][[code]()]  
 
 
 __2__. R. Xu, __Chao Li__, J. Yan, C. Deng, X. Liu, Graph Convolutional Network Hashing for Cross-Modal Retrieval, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2019. [[paper](https://www.ijcai.org/proceedings/2019/0138.pdf)]
