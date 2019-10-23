@@ -35,19 +35,22 @@ __3__. C. Deng, X. Liu, __Chao Li__, and D. Tao, Active Multi-kernel Domain Adap
 
 Conference
 ------
-__1__. R. Xu, __Chao Li__, J. Yan, C. Deng, X. Liu, Graph Convolutional Network Hashing for Cross-Modal Retrieval, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2019. [[paper](https://www.ijcai.org/proceedings/2019/0138.pdf)]
+__1__. __Chao Li__, C. Deng, S. Gao, D. Xie, and W. Liu, Cross-Modal Learning with Adversarial Samples, In Annual Conference on Neural Information Processing Systems (NeurIPS), 2019. [code]()  
 
 
-__2__. __Chao Li__, C. Deng, L. Wang, D. Xie, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. [[paper](https://arxiv.org/pdf/1903.02149.pdf)]
+__2__. R. Xu, __Chao Li__, J. Yan, C. Deng, X. Liu, Graph Convolutional Network Hashing for Cross-Modal Retrieval, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2019. [[paper](https://www.ijcai.org/proceedings/2019/0138.pdf)]
 
 
-__3__. D. Xie, C. Deng, H. Wang, __Chao Li__, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. [[paper](https://arxiv.org/pdf/1903.02155.pdf)]  
+__3__. __Chao Li__, C. Deng, L. Wang, D. Xie, and X. Liu, Coupled CycleGAN: Unsupervised Hashing Network for Cross-Modal Retrieval, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. [[paper](https://arxiv.org/pdf/1903.02149.pdf)]
 
 
-__4__. N. Li, __Chao Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embedding Hashing, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2018. [[paper](https://www.ijcai.org/proceedings/2018/0332.pdf)]
+__4__. D. Xie, C. Deng, H. Wang, __Chao Li__, and D. Tao, Semantic Adversarial Network with Multi-scale Pyramid Attention for Video Classification, In 33rd AAAI Conference on Artificial Intelligence (__AAAI__), 2019. [[paper](https://arxiv.org/pdf/1903.02155.pdf)]  
 
 
-__5__. __Chao Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.pdf)] [[code](https://github.com/ChaoLi1991/ChaoLi1991.github.io/tree/master/files/SSAH)]
+__5__. N. Li, __Chao Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embedding Hashing, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2018. [[paper](https://www.ijcai.org/proceedings/2018/0332.pdf)]
+
+
+__6__. __Chao Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.pdf)] [[code](https://github.com/ChaoLi1991/ChaoLi1991.github.io/tree/master/files/SSAH)]
 
 Friends
 ======
