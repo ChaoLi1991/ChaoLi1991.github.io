@@ -55,8 +55,8 @@ __6__. __Chao Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised 
 Friends
 ======
 [Jie Xu](https://jxu1991.github.io/) (Cornell University)  
-[Erkun Yang](https://yangerkun.github.io/) (Xidian Unversity)  
+[Erkun Yang](https://yangerkun.github.io/) (University of North Carolina at Chapel Hill)  
 [Hao Wang](https://haowang1992.github.io/) (Xidian Unversity)  
-[De Xie](https://shadowxiede.github.io/) (Xidian Unversity)  
+[De Xie](https://dexie0808.github.io/) (Xidian Unversity)  
 [Zhiyuan Dang](https://zhiyuandang.github.io/) (Xidian Unversity)  
 [Jiexi Yan](https://JiexiYan.github.io) (Xidian Unversity)  
