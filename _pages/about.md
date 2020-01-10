@@ -13,9 +13,10 @@ Chao Li is a PhD Candidate co-supervised by Prof. Wei Liu and Prof. [Cheng Deng]
 
 News
 ======
+* Dec. 31, 2019, one paper was accepted to IEEE Trans. Image Processing.  
 * Sep. 04, 2019, one paper was accepted to NeurIPS2019 (~21% acceptance rate).  
 * May 10, 2019, one paper was accepted to IJCAI2019 (~17.9% acceptance rate).  
-* Nov. 1, 2018, two papers were accepted by AAAI2019 (~16.2% acceptance rate).  
+* Nov. 01, 2018, two papers were accepted by AAAI2019 (~16.2% acceptance rate).  
 * Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate).  
 * Feb. 20, 2018, one paper was accepted by CVPR2018 (~29% acceptance rate).   
 
@@ -25,13 +26,16 @@ Recent Publications
 
 Journal
 ------
-__1__. C. Deng, Y. Xue, X. Liu, __Chao Li__, and D. Tao, Active Transfer Learning Network: A Unified Deep Joint Spectral–Spatial Feature Learning Model for Hyperspectral Image Classification, IEEE Trans. Geosci. Remote Sens., 2018.(IF17=4.662)  
+__1__. D Xie, C Deng, __Chao Li__, X. Liu, D. Tao, Multi-Task Consistency-Preserving Adversarial Hashing for Cross-Modal Retrieval, IEEE Trans. Image Process., 2019.(IF=6.790)  
 
 
-__2__. E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF17=7.982)  
+__2__. C. Deng, Y. Xue, X. Liu, __Chao Li__, and D. Tao, Active Transfer Learning Network: A Unified Deep Joint Spectral–Spatial Feature Learning Model for Hyperspectral Image Classification, IEEE Trans. Geosci. Remote Sens., 2018.(IF17=4.662)  
 
 
-__3__. C. Deng, X. Liu, __Chao Li__, and D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF17=3.962)  
+__3__. E. Yang, C. Deng, __Chao Li__, W. Liu, et al, Shared Predictive Cross-Modal Deep Quantization, IEEE Trans. Neural Netw. Learn. Syst., 2018. (IF17=7.982)  
+
+
+__4__. C. Deng, X. Liu, __Chao Li__, and D. Tao, Active Multi-kernel Domain Adaptation for Hyperspectral Image Classification, Pattern Recognition, 2017. (IF17=3.962)  
 
 Conference
 ------
