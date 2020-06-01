@@ -16,10 +16,6 @@ News
 * May 16, 2020, one paper was accepted to KDD2020 (~17% acceptance rate).  
 * Dec. 31, 2019, one paper was accepted to IEEE Trans. Image Processing.  
 * Sep. 04, 2019, one paper was accepted to NeurIPS2019 (~21% acceptance rate).  
-* May 10, 2019, one paper was accepted to IJCAI2019 (~17.9% acceptance rate).  
-* Nov. 01, 2018, two papers were accepted by AAAI2019 (~16.2% acceptance rate).  
-* Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate).  
-* Feb. 20, 2018, one paper was accepted by CVPR2018 (~29% acceptance rate).   
 
 
 Recent Publications
