@@ -56,6 +56,22 @@ __2__. N. Li, __Chao Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embe
 
 __1__. __Chao Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.pdf)] [[code](https://github.com/ChaoLi1991/ChaoLi1991.github.io/tree/master/files/SSAH)]
 
+
+Professional Services:
+======
+* Journal reviewer:  
+   Neurocomputing  
+   IEEE Transactions on Circuits and Systems for Video Technology  
+   IEEE Transactions on Neural Networks and Learning Systems  
+   Transactions on Pattern Analysis and Machine Intelligence  
+   
+* Conference reviewer:  
+   IEEE IEEE Conference on Computer Vision and Pattern Recognition (CVPR' 2019 2020)  
+   The International Conference on Computer Vision (ICCV' 2019)  
+   European Conference on Computer Vision (ECCV' 2020)
+   The AAAI Conference on Artificial Intelligence (AAAI' 2019 2020 2021)  
+   The International Joint Conference on Artificial Intelligence (IJCAI' 2019 2020 2021)  
+
 Friends
 ======
 [Jie Xu](https://jxu1015.github.io/) (Cornell University)  
