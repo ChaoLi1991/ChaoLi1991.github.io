@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Chao Li is a PhD Candidate co-supervised by Prof. Wei Liu and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that, he obtained his B.S. degree from [Inner Mongolia University of Science and Technology](http://www.imust.cn/) in 2014. Now, he is a visiting student at the University of Pittsburgh. My CV can be found [here](https://drive.google.com/file/d/148zFmj6ydyawLBOSxS_4p5YHrJtTEWhy/view?usp=sharing).
+Chao Li is a PhD Candidate co-supervised by Prof. Wei Liu and Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that, he obtained his B.S. degree from [Inner Mongolia University of Science and Technology](http://www.imust.cn/) in 2014. Now, he is a visiting student at the University of Pittsburgh. My CV can be found [here](https://github.com/ChaoLi1991/Others/blob/master/CV_ChaoLi.pdf).
 
 
 News
